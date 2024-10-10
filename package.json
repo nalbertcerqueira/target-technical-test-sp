@@ -1,0 +1,18 @@
+{
+  "name": "target",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "atividade-02": "ts-node ./src/atividade-02.ts",
+    "atividade-03": "ts-node ./src/atividade-03.ts",
+    "atividade-04": "ts-node ./src/atividade-04.ts",
+    "atividade-05": "ts-node ./src/atividade-05.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
